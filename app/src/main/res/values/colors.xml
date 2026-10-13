@@ -3,5 +3,14 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="initial_card_bg_color">#869AE3</color>
-
+    <color name="color_1">#e3256b </color>
+    <color name="color_2">#90526b</color>
+    <color name="color_3">#3ffd64</color>
+    <color name="color_4">#17eb66</color>
+    <color name="color_5">#c633a4</color>
+    <color name="color_6">#fed000</color>
+    <color name="color_7">#f2e1da</color>
+    <color name="color_8">#e6e3c5</color>
+    <color name="color_9">#FFBF4C</color>
+    <color name="color_10">#e30018</color>
 </resources>
